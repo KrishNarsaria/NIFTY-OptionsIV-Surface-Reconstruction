@@ -1,3 +1,5 @@
+## Repository
+[https://github.com/KrishNarsaria/FinClub-Project2](https://github.com/KrishNarsaria/FinClub-Project2)
 # NIFTY50 Options IV Surface Reconstruction
 
 **Author:** Krish Narsaria (ID: 24114052)  
@@ -172,4 +174,4 @@ DAYS_PER_YEAR = 365.25              # Days per year for time calc
 
 ## License
 
-Project submission for IIT Roorkee course assessment (May-June 2026).
+Project submission for IIT Roorkee FinClub (May-June 2026).
